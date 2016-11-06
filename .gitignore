@@ -21,6 +21,9 @@ __pycache__
 
 .Python
 env/
+#virtual environment
+venv/
+ENV/
 
 # Installer logs
 pip-log.txt
